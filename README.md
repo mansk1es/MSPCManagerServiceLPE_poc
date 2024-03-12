@@ -1,5 +1,7 @@
 # MSPCManagerServiceLPE_poc
 
+## Made public on 12/3/2024
+
 ### PoC for Arbitrary File Deletion -> Elevation of Privilege vulnerability in Microsoft's PC Manager
 MSRC confirmed, fixed the issue and pushed the fix automatically for everyone with the software.
 
